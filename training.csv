@@ -4,23 +4,56 @@ How long will it take to process the refunds,FAQ
 How do I escalate if I do not recive my refund?,FAQ
 Will my balance get lapsed if I do not use it for a long time?,FAQ
 What is the minimum top-up recharge I can do?,FAQ
+How do I recharge my wallet,FAQ
+How long will it take to process the refunds,FAQ
+How do I escalate if I do not recive my refund?,FAQ
+Will my balance get lapsed if I do not use it for a long time?,FAQ
+What is the minimum top-up recharge I can do?,FAQ
 I want to subscribe to milk,Subscribe
+subscribe milk,Subscribe
+subscribe to potatoes,Subscribe
+milk subscription,Subscribe
 Want to subscribe to curd,Subscribe
 Want to opt in for vegetables,Subscribe
 1kg potato subscribe,Subscribe
+Add half kg tomato to my subscription,Subscribe
+Please add potatoes,Subscribe
 subscribe to onions,Subscribe
 subscribe to onion,Subscribe
 I want onion every alternate day,Subscribe
 I want tomato once every week,Subscribe
 Want 500 gm tomatoes every week,Subscribe
 Want to buy brinjal every 2 days,Subscribe
+Want to subscribe vegetables,Subscribe
+Want to subscribe fruits,Subscribe
 I want to pause my subscription,Modify
 Please hold my subscription for a week,Modify
 Stop my subscription for a week,Modify
 Cancel my existing subscription,Modify
 I want to stop from subscribing curd,Modify
 Please stop tomato delivery for the next 15 days,Modify
+pause my milk and curd,Modify
+pause delivery of curd,Modify
+pause curd for 3 days,Modify
+pause curd subscription,Modify
+pause curd plan,Modify
+stop curd, Modify
+pause potatoes for a week,Modify
+I want to pause my subscription,Modify
+Please hold my subscription for a week,Modify
+Stop my subscription for a week,Modify
+Cancel my existing subscription,Modify
+I want to stop from subscribing curd,Modify
+Please stop tomato delivery for the next 15 days,Modify
+pause my milk and curd,Modify
+pause delivery of curd,Modify
+pause curd for 3 days,Modify
+pause curd subscription,Modify
+pause curd plan,Modify
+stop curd, Modify
+pause potatoes for a week,Modify
 milk not delivered,Complaint
+milk not delivered today,Complaint
 milk packet torn,Complaint
 received stale vegetables,Complaint
 received bad quality flowers,Complaint
@@ -29,6 +62,34 @@ received bad onions,Complaint
 received damaged products,Complaint
 received damaged curd packet,Complaint
 milk packet damaged,Complaint
+milk not delivered,Complaint
+milk packet torn,Complaint
+received stale vegetables,Complaint
+received bad quality flowers,Complaint
+received vegetables rotten,Complaint
+received damage onions,Complaint
+received damage products,Complaint
+received leaked curd packet,Complaint
+milk packet leaking,Complaint
+milk not delivered,Complaint
+milk not delivered today,Complaint
+milk packet torn,Complaint
+received stale vegetables,Complaint
+received bad quality flowers,Complaint
+received vegetables of bad quality,Complaint
+received bad onions,Complaint
+received damaged products,Complaint
+received damaged curd packet,Complaint
+milk packet damaged,Complaint
+milk not delivered,Complaint
+milk packet torn,Complaint
+received stale vegetables,Complaint
+received bad quality flowers,Complaint
+received vegetables rotten,Complaint
+received damage onions,Complaint
+received damage products,Complaint
+received leaked curd packet,Complaint
+milk packet leaking,Complaint
 Hi,Greeting
 Hai,Greeting
 Hello,Greeting
@@ -60,3 +121,8 @@ good bye,Exit
 goodbye,Exit
 Thanks for your help,Exit
 That's all for today,Exit
+Done,Exit
+All Done,Exit
+Completed,Exit
+I'm done,Exit
+i am done,Exit
