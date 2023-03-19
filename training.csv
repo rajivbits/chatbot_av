@@ -1,0 +1,62 @@
+Query,Intent
+How do I recharge my wallet,FAQ
+How long will it take to process the refunds,FAQ
+How do I escalate if I do not recive my refund?,FAQ
+Will my balance get lapsed if I do not use it for a long time?,FAQ
+What is the minimum top-up recharge I can do?,FAQ
+I want to subscribe to milk,Subscribe
+Want to subscribe to curd,Subscribe
+Want to opt in for vegetables,Subscribe
+1kg potato subscribe,Subscribe
+subscribe to onions,Subscribe
+subscribe to onion,Subscribe
+I want onion every alternate day,Subscribe
+I want tomato once every week,Subscribe
+Want 500 gm tomatoes every week,Subscribe
+Want to buy brinjal every 2 days,Subscribe
+I want to pause my subscription,Modify
+Please hold my subscription for a week,Modify
+Stop my subscription for a week,Modify
+Cancel my existing subscription,Modify
+I want to stop from subscribing curd,Modify
+Please stop tomato delivery for the next 15 days,Modify
+milk not delivered,Complaint
+milk packet torn,Complaint
+received stale vegetables,Complaint
+received bad quality flowers,Complaint
+received vegetables of bad quality,Complaint
+received bad onions,Complaint
+received damaged products,Complaint
+received damaged curd packet,Complaint
+milk packet damaged,Complaint
+Hi,Greeting
+Hai,Greeting
+Hello,Greeting
+Hii,Greeting
+Hy,Greeting
+Hey,Greeting
+haola,Greeting
+hola,Greeting
+good morning,Greeting
+gm,Greeting
+ge,Greeting
+how are you,Greeting
+how r u,Greeting
+hw r u,Greeting
+hw are u,Greeting
+hw r you,Greeting
+good afternoon,Greeting
+good evening,Greeting
+goodmorning,Greeting
+gud mrng,Greeting
+gud morning,Greeting
+good night,Greeting
+tq,Exit
+thanx,Exit
+tnx,Exit
+thanks,Exit
+Bye,Exit
+good bye,Exit
+goodbye,Exit
+Thanks for your help,Exit
+That's all for today,Exit
